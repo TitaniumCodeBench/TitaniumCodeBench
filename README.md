@@ -12,13 +12,12 @@
 
 ###
 
-![Header](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=Ayush.;Web+Developer;I+am+passinted+to+Build+Smart+Systems)
+![Header](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F7FF&center=flase&vCenter=flase&width=600&lines=Ayush.;Web+Developer;I+am+passinted+to+Build+Smart+Systems)
 
 ###
 
 # 💫 What happning now?:
-![Header](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=🔭I’m+currently+working+on+the+PassOP+project+by+CodeWithHarry;I’m+presently+learning+NextJS)
-🔭 I’m currently working on the PassOP project by CodeWithHarry<br>🌱. I’m presently learning NextJS
+![Header](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F7FF&center=false&vCenter=false&width=600&lines=🔭I’m+currently+working+on+the+PassOP+project+by+CodeWithHarry;I’m+presently+learning+NextJS)
 
 
 ## 🌐 Socials:
