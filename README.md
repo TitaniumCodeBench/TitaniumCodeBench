@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
@@ -19,6 +19,8 @@
 # 💫 What happning now?:
 ![Header](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&color=00F7FF&center=false&vCenter=false&width=600&lines=🔭I’m+currently+working+on+the+PassOP+project+by+CodeWithHarry;I’m+presently+learning+NextJS)
 
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titaniumayushmain2010) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@titanium638733) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maanayush130@gmail.com) 
@@ -33,8 +35,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TitaniumCodeBench&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Some Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TitaniumCodeBench&limit=5&theme=dark&combine_all_yearly_contributions=true)
