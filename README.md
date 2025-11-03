@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="left">Hey 👋What's Up?</h1>
 
 ###
 
@@ -12,11 +12,12 @@
 
 ###
 
-<h4 align="left">I am Ayush. I am here to enhance the future and aim to contribute to the advancement of artificial intelligence.</h4>
+![Header](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=Ayush.;Web+Developer;I+am+passinted+to+Build+Smart+Systems)
 
 ###
 
 # 💫 What happning now?:
+![Header](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=🔭I’m+currently+working+on+the+PassOP+project+by+CodeWithHarry;I’m+presently+learning+NextJS)
 🔭 I’m currently working on the PassOP project by CodeWithHarry<br>🌱. I’m presently learning NextJS
 
 
