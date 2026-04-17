@@ -17,7 +17,6 @@
 ###
 
 # 💫 What happning now?:
-![Header](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&color=00F7FF&center=false&vCenter=false&width=600&lines=🔭I’m+currently+free;I’m+presently+going+deep+in+python+and+LLMs)
 
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" />
 
